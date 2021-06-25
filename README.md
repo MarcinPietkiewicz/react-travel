@@ -1,4 +1,4 @@
-Live-demo: [Adam trekowski](http://www.farmerolaf.com/hero-php)
+Live-demo: [Adam trekowski](http://www.farmerolaf.com/adam)
 
 ## Features
 
