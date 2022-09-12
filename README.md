@@ -15,3 +15,5 @@ Desktop | Mobile
 3. PHP section with login (no database needed) to update content
 
 ![edit](https://i.postimg.cc/sDZMcFBQ/trekowski4.png)
+
+4. Tech stack: type-script + react
